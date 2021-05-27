@@ -1,0 +1,19 @@
+ion-content{
+  background-color: cornflowerblue;
+}
+
+h3{
+  font-family: impact;
+  text-align: center;
+}
+p{
+  font-family: georgia;
+  font-size: larger;
+}
+ion-label{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  text-align: center;
+}
+ion-chip{
+  background-color: white;
+}
